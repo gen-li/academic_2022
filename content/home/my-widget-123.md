@@ -1,6 +1,6 @@
 ---
 widget: Authors
-widget_id: Introduction
+widget_id: introduction
 headless: true
 weight: 10
 active: true
